@@ -1,3 +1,4 @@
 New file created
 new line
 third line
+renamed
